@@ -1,0 +1,405 @@
+[submodule "packages/intranet-core"]
+	path = packages/intranet-core
+	url = git@github.com:project-open/intranet-core.git
+[submodule "packages/acs-admin"]
+	path = packages/acs-admin
+	url = git@github.com:project-open/acs-admin
+[submodule "packages/acs-api-browser"]
+	path = packages/acs-api-browser
+	url = git@github.com:project-open/acs-api-browser
+[submodule "packages/acs-authentication"]
+	path = packages/acs-authentication
+	url = git@github.com:project-open/acs-authentication
+[submodule "packages/acs-automated-testing"]
+	path = packages/acs-automated-testing
+	url = git@github.com:project-open/acs-automated-testing
+[submodule "packages/acs-bootstrap-installer"]
+	path = packages/acs-bootstrap-installer
+	url = git@github.com:project-open/acs-bootstrap-installer
+[submodule "packages/acs-content-repository"]
+	path = packages/acs-content-repository
+	url = git@github.com:project-open/acs-content-repository
+[submodule "packages/acs-core-docs"]
+	path = packages/acs-core-docs
+	url = git@github.com:project-open/acs-core-docs
+[submodule "packages/acs-datetime"]
+	path = packages/acs-datetime
+	url = git@github.com:project-open/acs-datetime
+[submodule "packages/acs-developer-support"]
+	path = packages/acs-developer-support
+	url = git@github.com:project-open/acs-developer-support
+[submodule "packages/acs-events"]
+	path = packages/acs-events
+	url = git@github.com:project-open/acs-events
+[submodule "packages/acs-kernel"]
+	path = packages/acs-kernel
+	url = git@github.com:project-open/acs-kernel
+[submodule "packages/acs-lang"]
+	path = packages/acs-lang
+	url = git@github.com:project-open/acs-lang
+[submodule "packages/acs-lang-server"]
+	path = packages/acs-lang-server
+	url = git@github.com:project-open/acs-lang-server
+[submodule "packages/acs-mail"]
+	path = packages/acs-mail
+	url = git@github.com:project-open/acs-mail
+[submodule "packages/acs-mail-lite"]
+	path = packages/acs-mail-lite
+	url = git@github.com:project-open/acs-mail-lite
+[submodule "packages/acs-messaging"]
+	path = packages/acs-messaging
+	url = git@github.com:project-open/acs-messaging
+[submodule "packages/acs-reference"]
+	path = packages/acs-reference
+	url = git@github.com:project-open/acs-reference
+[submodule "packages/acs-service-contract"]
+	path = packages/acs-service-contract
+	url = git@github.com:project-open/acs-service-contract
+[submodule "packages/acs-subsite"]
+	path = packages/acs-subsite
+	url = git@github.com:project-open/acs-subsite
+[submodule "packages/acs-tcl"]
+	path = packages/acs-tcl
+	url = git@github.com:project-open/acs-tcl
+[submodule "packages/acs-templating"]
+	path = packages/acs-templating
+	url = git@github.com:project-open/acs-templating
+[submodule "packages/acs-translations"]
+	path = packages/acs-translations
+	url = git@github.com:project-open/acs-translations
+[submodule "packages/acs-workflow"]
+	path = packages/acs-workflow
+	url = git@github.com:project-open/acs-workflow
+[submodule "packages/ajaxhelper"]
+	path = packages/ajaxhelper
+	url = git@github.com:project-open/ajaxhelper
+[submodule "packages/ams"]
+	path = packages/ams
+	url = git@github.com:project-open/ams
+[submodule "packages/attachments"]
+	path = packages/attachments
+	url = git@github.com:project-open/attachments
+[submodule "packages/auth-ldap"]
+	path = packages/auth-ldap
+	url = git@github.com:project-open/auth-ldap
+[submodule "packages/auth-ldap-adfind"]
+	path = packages/auth-ldap-adfind
+	url = git@github.com:project-open/auth-ldap-adfind
+[submodule "packages/auth-ldap-adldapsearch"]
+	path = packages/auth-ldap-adldapsearch
+	url = git@github.com:project-open/auth-ldap-adldapsearch
+[submodule "packages/bug-tracker"]
+	path = packages/bug-tracker
+	url = git@github.com:project-open/bug-tracker
+[submodule "packages/bulk-mail"]
+	path = packages/bulk-mail
+	url = git@github.com:project-open/bulk-mail
+[submodule "packages/calendar"]
+	path = packages/calendar
+	url = git@github.com:project-open/calendar
+[submodule "packages/categories"]
+	path = packages/categories
+	url = git@github.com:project-open/categories
+[submodule "packages/chat"]
+	path = packages/chat
+	url = git@github.com:project-open/chat
+[submodule "packages/cms"]
+	path = packages/cms
+	url = git@github.com:project-open/cms
+[submodule "packages/contacts"]
+	path = packages/contacts
+	url = git@github.com:project-open/contacts
+[submodule "packages/diagram"]
+	path = packages/diagram
+	url = git@github.com:project-open/diagram
+[submodule "packages/ecommerce"]
+	path = packages/ecommerce
+	url = git@github.com:project-open/ecommerce
+[submodule "packages/events"]
+	path = packages/events
+	url = git@github.com:project-open/events
+[submodule "packages/faq"]
+	path = packages/faq
+	url = git@github.com:project-open/faq
+[submodule "packages/file-storage"]
+	path = packages/file-storage
+	url = git@github.com:project-open/file-storage
+[submodule "packages/general-comments"]
+	path = packages/general-comments
+	url = git@github.com:project-open/general-comments
+[submodule "packages/intermedia-driver"]
+	path = packages/intermedia-driver
+	url = git@github.com:project-open/intermedia-driver
+[submodule "packages/intranet-bug-tracker"]
+	path = packages/intranet-bug-tracker
+	url = git@github.com:project-open/intranet-bug-tracker
+[submodule "packages/intranet-calendar"]
+	path = packages/intranet-calendar
+	url = git@github.com:project-open/intranet-calendar
+[submodule "packages/intranet-contacts"]
+	path = packages/intranet-contacts
+	url = git@github.com:project-open/intranet-contacts
+[submodule "packages/intranet-cost"]
+	path = packages/intranet-cost
+	url = git@github.com:project-open/intranet-cost
+[submodule "packages/intranet-cost-center"]
+	path = packages/intranet-cost-center
+	url = git@github.com:project-open/intranet-cost-center
+[submodule "packages/intranet-csv-import"]
+	path = packages/intranet-csv-import
+	url = git@github.com:project-open/intranet-csv-import
+[submodule "packages/intranet-customer-portal"]
+	path = packages/intranet-customer-portal
+	url = git@github.com:project-open/intranet-customer-portal
+[submodule "packages/intranet-cvs-integration"]
+	path = packages/intranet-cvs-integration
+	url = git@github.com:project-open/intranet-cvs-integration
+[submodule "packages/intranet-dw-light"]
+	path = packages/intranet-dw-light
+	url = git@github.com:project-open/intranet-dw-light
+[submodule "packages/intranet-dynfield"]
+	path = packages/intranet-dynfield
+	url = git@github.com:project-open/intranet-dynfield
+[submodule "packages/intranet-exchange-rate"]
+	path = packages/intranet-exchange-rate
+	url = git@github.com:project-open/intranet-exchange-rate
+[submodule "packages/intranet-expenses"]
+	path = packages/intranet-expenses
+	url = git@github.com:project-open/intranet-expenses
+[submodule "packages/intranet-expenses-workflow"]
+	path = packages/intranet-expenses-workflow
+	url = git@github.com:project-open/intranet-expenses-workflow
+[submodule "packages/intranet-filestorage"]
+	path = packages/intranet-filestorage
+	url = git@github.com:project-open/intranet-filestorage
+[submodule "packages/intranet-forum"]
+	path = packages/intranet-forum
+	url = git@github.com:project-open/intranet-forum
+[submodule "packages/intranet-funambol"]
+	path = packages/intranet-funambol
+	url = git@github.com:project-open/intranet-funambol
+[submodule "packages/intranet-ganttproject"]
+	path = packages/intranet-ganttproject
+	url = git@github.com:project-open/intranet-ganttproject
+[submodule "packages/intranet-helpdesk"]
+	path = packages/intranet-helpdesk
+	url = git@github.com:project-open/intranet-helpdesk
+[submodule "packages/intranet-hr"]
+	path = packages/intranet-hr
+	url = git@github.com:project-open/intranet-hr
+[submodule "packages/intranet-idea-management"]
+	path = packages/intranet-idea-management
+	url = git@github.com:project-open/intranet-idea-management
+[submodule "packages/intranet-invoices"]
+	path = packages/intranet-invoices
+	url = git@github.com:project-open/intranet-invoices
+[submodule "packages/intranet-invoices-templates"]
+	path = packages/intranet-invoices-templates
+	url = git@github.com:project-open/intranet-invoices-templates
+[submodule "packages/intranet-mail-import"]
+	path = packages/intranet-mail-import
+	url = git@github.com:project-open/intranet-mail-import
+[submodule "packages/intranet-material"]
+	path = packages/intranet-material
+	url = git@github.com:project-open/intranet-material
+[submodule "packages/intranet-milestone"]
+	path = packages/intranet-milestone
+	url = git@github.com:project-open/intranet-milestone
+[submodule "packages/intranet-nagios"]
+	path = packages/intranet-nagios
+	url = git@github.com:project-open/intranet-nagios
+[submodule "packages/intranet-notes"]
+	path = packages/intranet-notes
+	url = git@github.com:project-open/intranet-notes
+[submodule "packages/intranet-notes-tutorial"]
+	path = packages/intranet-notes-tutorial
+	url = git@github.com:project-open/intranet-notes-tutorial
+[submodule "packages/intranet-otrs-integration"]
+	path = packages/intranet-otrs-integration
+	url = git@github.com:project-open/intranet-otrs-integration
+[submodule "packages/intranet-overtime"]
+	path = packages/intranet-overtime
+	url = git@github.com:project-open/intranet-overtime
+[submodule "packages/intranet-payments"]
+	path = packages/intranet-payments
+	url = git@github.com:project-open/intranet-payments
+[submodule "packages/intranet-planning"]
+	path = packages/intranet-planning
+	url = git@github.com:project-open/intranet-planning
+[submodule "packages/intranet-portfolio-management"]
+	path = packages/intranet-portfolio-management
+	url = git@github.com:project-open/intranet-portfolio-management
+[submodule "packages/intranet-release-mgmt"]
+	path = packages/intranet-release-mgmt
+	url = git@github.com:project-open/intranet-release-mgmt
+[submodule "packages/intranet-reporting"]
+	path = packages/intranet-reporting
+	url = git@github.com:project-open/intranet-reporting
+[submodule "packages/intranet-reporting-dashboard"]
+	path = packages/intranet-reporting-dashboard
+	url = git@github.com:project-open/intranet-reporting-dashboard
+[submodule "packages/intranet-reporting-indicators"]
+	path = packages/intranet-reporting-indicators
+	url = git@github.com:project-open/intranet-reporting-indicators
+[submodule "packages/intranet-reporting-openoffice"]
+	path = packages/intranet-reporting-openoffice
+	url = git@github.com:project-open/intranet-reporting-openoffice
+[submodule "packages/intranet-reporting-tutorial"]
+	path = packages/intranet-reporting-tutorial
+	url = git@github.com:project-open/intranet-reporting-tutorial
+[submodule "packages/intranet-resource-management"]
+	path = packages/intranet-resource-management
+	url = git@github.com:project-open/intranet-resource-management
+[submodule "packages/intranet-rest"]
+	path = packages/intranet-rest
+	url = git@github.com:project-open/intranet-rest
+[submodule "packages/intranet-riskmanagement"]
+	path = packages/intranet-riskmanagement
+	url = git@github.com:project-open/intranet-riskmanagement
+[submodule "packages/intranet-rss-reader"]
+	path = packages/intranet-rss-reader
+	url = git@github.com:project-open/intranet-rss-reader
+[submodule "packages/intranet-scrum"]
+	path = packages/intranet-scrum
+	url = git@github.com:project-open/intranet-scrum
+[submodule "packages/intranet-search"]
+	path = packages/intranet-search
+	url = git@github.com:project-open/intranet-search
+[submodule "packages/intranet-search-pg"]
+	path = packages/intranet-search-pg
+	url = git@github.com:project-open/intranet-search-pg
+[submodule "packages/intranet-search-pg-files"]
+	path = packages/intranet-search-pg-files
+	url = git@github.com:project-open/intranet-search-pg-files
+[submodule "packages/intranet-security-update-client"]
+	path = packages/intranet-security-update-client
+	url = git@github.com:project-open/intranet-security-update-client
+[submodule "packages/intranet-sharepoint"]
+	path = packages/intranet-sharepoint
+	url = git@github.com:project-open/intranet-sharepoint
+[submodule "packages/intranet-simple-survey"]
+	path = packages/intranet-simple-survey
+	url = git@github.com:project-open/intranet-simple-survey
+[submodule "packages/intranet-sla-management"]
+	path = packages/intranet-sla-management
+	url = git@github.com:project-open/intranet-sla-management
+[submodule "packages/intranet-sysconfig"]
+	path = packages/intranet-sysconfig
+	url = git@github.com:project-open/intranet-sysconfig
+[submodule "packages/intranet-timesheet2"]
+	path = packages/intranet-timesheet2
+	url = git@github.com:project-open/intranet-timesheet2
+[submodule "packages/intranet-timesheet2-invoices"]
+	path = packages/intranet-timesheet2-invoices
+	url = git@github.com:project-open/intranet-timesheet2-invoices
+[submodule "packages/intranet-timesheet2-task-popup"]
+	path = packages/intranet-timesheet2-task-popup
+	url = git@github.com:project-open/intranet-timesheet2-task-popup
+[submodule "packages/intranet-timesheet2-tasks"]
+	path = packages/intranet-timesheet2-tasks
+	url = git@github.com:project-open/intranet-timesheet2-tasks
+[submodule "packages/intranet-timesheet2-workflow"]
+	path = packages/intranet-timesheet2-workflow
+	url = git@github.com:project-open/intranet-timesheet2-workflow
+[submodule "packages/intranet-trans-invoices"]
+	path = packages/intranet-trans-invoices
+	url = git@github.com:project-open/intranet-trans-invoices
+[submodule "packages/intranet-trans-project-wizard"]
+	path = packages/intranet-trans-project-wizard
+	url = git@github.com:project-open/intranet-trans-project-wizard
+[submodule "packages/intranet-translation"]
+	path = packages/intranet-translation
+	url = git@github.com:project-open/intranet-translation
+[submodule "packages/intranet-update-client"]
+	path = packages/intranet-update-client
+	url = git@github.com:project-open/intranet-update-client
+[submodule "packages/intranet-wiki"]
+	path = packages/intranet-wiki
+	url = git@github.com:project-open/intranet-wiki
+[submodule "packages/intranet-workflow"]
+	path = packages/intranet-workflow
+	url = git@github.com:project-open/intranet-workflow
+[submodule "packages/intranet-xmlrpc"]
+	path = packages/intranet-xmlrpc
+	url = git@github.com:project-open/intranet-xmlrpc
+[submodule "packages/mail-tracking"]
+	path = packages/mail-tracking
+	url = git@github.com:project-open/mail-tracking
+[submodule "packages/notifications"]
+	path = packages/notifications
+	url = git@github.com:project-open/notifications
+[submodule "packages/oacs-dav"]
+	path = packages/oacs-dav
+	url = git@github.com:project-open/oacs-dav
+[submodule "packages/openacs-default-theme"]
+	path = packages/openacs-default-theme
+	url = git@github.com:project-open/openacs-default-theme
+[submodule "packages/organizations"]
+	path = packages/organizations
+	url = git@github.com:project-open/organizations
+[submodule "packages/acs_admin_tools"]
+	path = packages/acs_admin_tools
+	url = git@github.com:project-open/acs_admin_tools
+[submodule "packages/intranet-confdb"]
+	path = packages/intranet-confdb
+	url = git@github.com:project-open/intranet-confdb
+[submodule "packages/ref-us-zipcodes"]
+	path = packages/ref-us-zipcodes
+	url = git@github.com:project-open/ref-us-zipcodes
+[submodule "packages/postal-address"]
+	path = packages/postal-address
+	url = git@github.com:project-open/postal-address
+[submodule "packages/project-open"]
+	path = packages/project-open
+	url = git@github.com:project-open/project-open
+[submodule "packages/ref-countries"]
+	path = packages/ref-countries
+	url = git@github.com:project-open/ref-countries
+[submodule "packages/ref-itu"]
+	path = packages/ref-itu
+	url = git@github.com:project-open/ref-itu
+[submodule "packages/ref-language"]
+	path = packages/ref-language
+	url = git@github.com:project-open/ref-language
+[submodule "packages/ref-timezones"]
+	path = packages/ref-timezones
+	url = git@github.com:project-open/ref-timezones
+[submodule "packages/ref-us-counties"]
+	path = packages/ref-us-counties
+	url = git@github.com:project-open/ref-us-counties
+[submodule "packages/ref-us-states"]
+	path = packages/ref-us-states
+	url = git@github.com:project-open/ref-us-states
+[submodule "packages/rss-support"]
+	path = packages/rss-support
+	url = git@github.com:project-open/rss-support
+[submodule "packages/search"]
+	path = packages/search
+	url = git@github.com:project-open/search
+[submodule "packages/simple-survey"]
+	path = packages/simple-survey
+	url = git@github.com:project-open/simple-survey
+[submodule "packages/telecom-number"]
+	path = packages/telecom-number
+	url = git@github.com:project-open/telecom-number
+[submodule "packages/trackback"]
+	path = packages/trackback
+	url = git@github.com:project-open/trackback
+[submodule "packages/tsearch2-driver"]
+	path = packages/tsearch2-driver
+	url = git@github.com:project-open/tsearch2-driver
+[submodule "packages/wiki"]
+	path = packages/wiki
+	url = git@github.com:project-open/wiki
+[submodule "packages/workflow"]
+	path = packages/workflow
+	url = git@github.com:project-open/workflow
+[submodule "packages/xml-rpc"]
+	path = packages/xml-rpc
+	url = git@github.com:project-open/xml-rpc
+[submodule "packages/xotcl-core"]
+	path = packages/xotcl-core
+	url = git@github.com:project-open/xotcl-core
+[submodule "packages/xowiki"]
+	path = packages/xowiki
+	url = git@github.com:project-open/xowiki
